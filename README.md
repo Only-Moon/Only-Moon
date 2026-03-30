@@ -32,31 +32,27 @@ Building scalable web apps, automating Discord communities, and developing cross
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
 
-### Statistics
 
-![GitHub Stats](https://stats.quine.sh/Only-Moon/github?theme=dark)
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=75924613" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=75924613&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Only-Moon" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=75924613&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Contribution Calendar](https://ghchart.rile.xyz/Only-Moon)
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 </div>
 
-<div align="center">
 
-### Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Only-Moon&theme=dark&hide_border=true)
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 </div>
+
+<div align="left">
 
 ---
 
@@ -174,6 +170,19 @@ Building scalable web apps, automating Discord communities, and developing cross
 - 🤖 AI/ML integration
 - ⚡ Performance optimization
 - 📱 Mobile development
+
+---
+
+## 📈 Contribution Activity
+
+<div align="left">
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=75924613&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=75924613&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @Only-Moon" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=75924613&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
 
 ---
 
